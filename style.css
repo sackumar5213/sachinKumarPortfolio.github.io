@@ -9,7 +9,7 @@ body, html{width: 100%; height: 100%;}
 .container1{
     max-width: 100%;
     margin: 0 2rem;
-   background-image: url('/images/asset\ 19.png');
+   background-image: url('images/asset\ 19.png');
    background-size: contain;
 }
 
